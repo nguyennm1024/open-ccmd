@@ -16,6 +16,18 @@ Open-source AI models are affordable but often struggle with code quality and de
 
 **Goal**: Make cheap open-source models perform on par with Claude Code + Sonnet for coding tasks.
 
+## ⚠️ Current Status & Disclaimer
+
+**Important**: While these guides make open-source AI models significantly better at coding tasks, they do not yet achieve the same level of performance as premium models like Claude Opus, Claude Sonnet, or GPT-5. 
+
+We are on a journey toward that goal, and these guides represent an important step in bridging the gap between affordable open-source models and premium coding assistants. With continued improvements, community contributions, and refinements, we're working to close that gap.
+
+**What you can expect**:
+- ✅ Significantly improved code quality compared to using open-source models without guides
+- ✅ Better debugging and systematic problem-solving approaches
+- ✅ More consistent adherence to best practices
+- ⚠️ Not yet at the level of premium models, but continuously improving
+
 ## 📚 Available Guides
 
 | Language/Framework | File | Status |
@@ -132,6 +144,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [x] Add guides for Go, Rust, C++
 - [x] Add guide for C
 - [x] Add guide for C#
+- [ ] Optimize length of CLAUDE.md files for efficiency 
 - [ ] Add framework-specific guides (React, Django, Spring Boot, etc.)
 
 ## 💬 Discussion
